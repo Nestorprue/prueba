@@ -7,11 +7,11 @@ stages:
       md5: eda19f66b821ddd5a0d7ae0e8d42d175
       size: 170075
     - path: .\train.py
-      md5: 8556bb0bbd41fa736f74d24b325a629f
+      md5: 26294eec2b39b83bec5ee2b1075b9dcb
       size: 1857
     outs:
     - path: redP2
-      md5: 7aa7493633c9042f6a804cd4c5fec126.dir
+      md5: 4d9d1ec69a698a0326c918564a0384b3.dir
       size: 6915854
       nfiles: 4
     - path: std_scaler.bin
